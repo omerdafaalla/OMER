@@ -22,7 +22,7 @@ financial modeling, risk assessment,investment analysis and Financial Analysis
 
 ## Contact
 
-Feel free to reach out to me for collaborations, questions, or just to connect!
+Feel free to reach out to me for collaborations, questions, or just to connect
 
 - **Email:** [omerdafaalla1@gmail.com][def2]
 - **LinkedIn:** [LinkedIn Profile][def]
